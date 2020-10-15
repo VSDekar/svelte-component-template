@@ -7,10 +7,6 @@ export const routes = [
     component: Component,
   },
   {
-    path: '/component',
-    component: Component,
-  },
-  {
     path: '*',
     component: Error,
   },
