@@ -19,7 +19,7 @@ function createWindow() {
     height: 960,
     webPreferences: {
       nodeIntegration: true,
-      enableRemoteModule: true,
+      // enableRemoteModule: true, // you should use ipcRenderer and ipcMain for communication between the processes.
     },
   });
 
