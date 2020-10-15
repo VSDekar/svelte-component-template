@@ -41,5 +41,6 @@ For everyone else, `npm run build` will bundle your component's source code into
 
 ## Companion Repositories
 
-- // TODO Svelte Electron Template
-- // TODO Svelte Web Template
+- [Svelte Electron Template](https://github.com/VSDekar/svelte-electron-template)
+- [Svelte Web Template](https://github.com/VSDekar/svelte-web-template)
+- [Svelte Move](https://github.com/VSDekar/svelte-move) Another svelte-router. Can be used in hash or history mode

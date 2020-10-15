@@ -4,6 +4,6 @@
 </script>
 
 <main>
-  Welcome to Svelte Web App
+  Welcome to your Svelte Web App
   <Router {routes} />
 </main>

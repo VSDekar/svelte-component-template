@@ -6,7 +6,7 @@
   "scripts": {
     "build": "rollup -c",
     "svelte": "rollup -c -w",
-    "start": "sirv public",
+    "start": "sirv public --single",
     "app": "electron .",
     "dev": "concurrently \"npm:svelte\" \"npm:app\""
   },
