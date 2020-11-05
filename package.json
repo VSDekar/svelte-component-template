@@ -16,7 +16,9 @@
     "rollup": "^2.0.0",
     "rollup-plugin-svelte": "^6.0.0",
     "svelte": "^3.0.0",
-    "svelte-preprocess": "^4.5.1"
+    "svelte-preprocess": "^4.5.1",
+    "prettier": "^2.1.2",
+    "prettier-plugin-svelte": "^1.4.1"
   },
   "keywords": [
     "svelte"
